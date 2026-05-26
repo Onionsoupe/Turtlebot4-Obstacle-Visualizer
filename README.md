@@ -34,11 +34,7 @@ Launch the node using the following command:
 ros2 run obstacle_visualizer obstacle_visualizer_node
 ```
 
-### 5. View the Output
-Open `rqt_image_view` in a new terminal to visualize the fused obstacle data feed:
-```bash
-ros2 run rqt_image_view rqt_image_view
-```
+Make sure to install the dependancies.
 
 ---
 
