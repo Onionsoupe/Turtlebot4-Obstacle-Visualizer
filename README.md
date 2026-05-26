@@ -44,4 +44,4 @@ ros2 run rqt_image_view rqt_image_view
 
 ## 📺 Preview
 
-![Turtlebot4 Visualizer](https://github.com)
+![Turtlebot4 Visualizer](demo.gif)
