@@ -1,0 +1,3 @@
+[console_scripts]
+obstacle_visualizer_node = obstacle_visualizer.objt_viz_node:main
+

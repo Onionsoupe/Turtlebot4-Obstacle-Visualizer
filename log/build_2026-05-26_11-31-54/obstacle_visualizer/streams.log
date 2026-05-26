@@ -1,0 +1,24 @@
+[0.286s] Invoking command in '/home/ian/test_projects/obstacle_visualizer': PYTHONPATH=/home/ian/test_projects/build/obstacle_visualizer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ian/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/obstacle_visualizer build --build-base /home/ian/test_projects/build/obstacle_visualizer/build install --record /home/ian/test_projects/build/obstacle_visualizer/install.log --single-version-externally-managed install_data
+[0.379s] running egg_info
+[0.380s] writing ../build/obstacle_visualizer/obstacle_visualizer.egg-info/PKG-INFO
+[0.380s] writing dependency_links to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/dependency_links.txt
+[0.380s] writing entry points to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/entry_points.txt
+[0.380s] writing requirements to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/requires.txt
+[0.380s] writing top-level names to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/top_level.txt
+[0.380s] reading manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+[0.381s] writing manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+[0.381s] running build
+[0.381s] running build_py
+[0.381s] copying obstacle_visualizer/objt_viz_node.py -> /home/ian/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer
+[0.381s] running install
+[0.381s] running install_lib
+[0.381s] copying /home/ian/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer/objt_viz_node.py -> /home/ian/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer
+[0.382s] byte-compiling /home/ian/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer/objt_viz_node.py to objt_viz_node.cpython-310.pyc
+[0.382s] running install_data
+[0.382s] running install_egg_info
+[0.383s] removing '/home/ian/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.383s] Copying ../build/obstacle_visualizer/obstacle_visualizer.egg-info to /home/ian/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer-0.0.0-py3.10.egg-info
+[0.383s] running install_scripts
+[0.392s] Installing obstacle_visualizer_node script to /home/ian/test_projects/install/obstacle_visualizer/lib/obstacle_visualizer
+[0.392s] writing list of installed files to '/home/ian/test_projects/build/obstacle_visualizer/install.log'
+[0.402s] Invoked command in '/home/ian/test_projects/obstacle_visualizer' returned '0': PYTHONPATH=/home/ian/test_projects/build/obstacle_visualizer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ian/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/obstacle_visualizer build --build-base /home/ian/test_projects/build/obstacle_visualizer/build install --record /home/ian/test_projects/build/obstacle_visualizer/install.log --single-version-externally-managed install_data

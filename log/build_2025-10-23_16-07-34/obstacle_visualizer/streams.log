@@ -1,0 +1,36 @@
+[0.738s] Invoking command in '/home/turtlebot-pc/test_projects/obstacle_visualizer': PYTHONPATH=/home/turtlebot-pc/test_projects/build/obstacle_visualizer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/obstacle_visualizer build --build-base /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build install --record /home/turtlebot-pc/test_projects/build/obstacle_visualizer/install.log --single-version-externally-managed install_data
+[1.003s] running egg_info
+[1.004s] creating ../build/obstacle_visualizer/obstacle_visualizer.egg-info
+[1.004s] writing ../build/obstacle_visualizer/obstacle_visualizer.egg-info/PKG-INFO
+[1.004s] writing dependency_links to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/dependency_links.txt
+[1.004s] writing entry points to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/entry_points.txt
+[1.004s] writing requirements to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/requires.txt
+[1.005s] writing top-level names to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/top_level.txt
+[1.005s] writing manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+[1.007s] reading manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+[1.008s] writing manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+[1.008s] running build
+[1.008s] running build_py
+[1.008s] creating /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build
+[1.009s] creating /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib
+[1.009s] creating /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer
+[1.009s] copying obstacle_visualizer/objt_viz_node.py -> /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer
+[1.009s] copying obstacle_visualizer/__init__.py -> /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer
+[1.009s] running install
+[1.009s] running install_lib
+[1.011s] creating /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer
+[1.012s] copying /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer/objt_viz_node.py -> /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer
+[1.012s] copying /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer/__init__.py -> /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer
+[1.012s] byte-compiling /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer/objt_viz_node.py to objt_viz_node.cpython-310.pyc
+[1.013s] byte-compiling /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer/__init__.py to __init__.cpython-310.pyc
+[1.013s] running install_data
+[1.013s] creating /home/turtlebot-pc/test_projects/install/obstacle_visualizer/share/ament_index
+[1.013s] creating /home/turtlebot-pc/test_projects/install/obstacle_visualizer/share/ament_index/resource_index
+[1.013s] creating /home/turtlebot-pc/test_projects/install/obstacle_visualizer/share/ament_index/resource_index/packages
+[1.013s] copying resource/obstacle_visualizer -> /home/turtlebot-pc/test_projects/install/obstacle_visualizer/share/ament_index/resource_index/packages
+[1.013s] copying package.xml -> /home/turtlebot-pc/test_projects/install/obstacle_visualizer/share/obstacle_visualizer
+[1.013s] running install_egg_info
+[1.016s] Copying ../build/obstacle_visualizer/obstacle_visualizer.egg-info to /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer-0.0.0-py3.10.egg-info
+[1.017s] running install_scripts
+[1.039s] writing list of installed files to '/home/turtlebot-pc/test_projects/build/obstacle_visualizer/install.log'
+[1.070s] Invoked command in '/home/turtlebot-pc/test_projects/obstacle_visualizer' returned '0': PYTHONPATH=/home/turtlebot-pc/test_projects/build/obstacle_visualizer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/obstacle_visualizer build --build-base /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build install --record /home/turtlebot-pc/test_projects/build/obstacle_visualizer/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/obstacle_visualizer/obstacle_visualizer.egg-info/PKG-INFO
+writing dependency_links to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/dependency_links.txt
+writing entry points to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/entry_points.txt
+writing requirements to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/requires.txt
+writing top-level names to ../build/obstacle_visualizer/obstacle_visualizer.egg-info/top_level.txt
+reading manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+writing manifest file '../build/obstacle_visualizer/obstacle_visualizer.egg-info/SOURCES.txt'
+running build
+running build_py
+copying obstacle_visualizer/objt_viz_node.py -> /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer
+running install
+running install_lib
+copying /home/turtlebot-pc/test_projects/build/obstacle_visualizer/build/lib/obstacle_visualizer/objt_viz_node.py -> /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer
+byte-compiling /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer/objt_viz_node.py to objt_viz_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/obstacle_visualizer/obstacle_visualizer.egg-info to /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/python3.10/site-packages/obstacle_visualizer-0.0.0-py3.10.egg-info
+running install_scripts
+Installing obstacle_visualizer_node script to /home/turtlebot-pc/test_projects/install/obstacle_visualizer/lib/obstacle_visualizer
+writing list of installed files to '/home/turtlebot-pc/test_projects/build/obstacle_visualizer/install.log'
